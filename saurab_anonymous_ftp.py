@@ -1,5 +1,9 @@
 # ============================================================
+<<<<<<< HEAD
 # Author:      Saurab Bhattarai
+=======
+# Author:      Saurab
+>>>>>>> 40db524 (Add anonymous ftp login allowed script for ftp.0x10.cloud)
 # Vulnerability: Anonymous FTP Login Allowed
 # Target:      ftp.0x10.cloud (port 2121)
 # Course:      COMP2152 Term Project
