@@ -6,11 +6,12 @@ Team _______
 
 ## Team Members
 
-| Member | Vulnerability Found | Branch Name |
-|--------|-------------------|-------------|
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| Member | Vulnerability Found   | Branch Name |
+|--------|-----------------------|-------------|
+| Navjot | Telnet Service Exposed |navjot_telnet_cleartext |
+| Saurab | Anonymous FTP Login Allowed|saurab_anonymous_ftp |
+| Anees| Missing HTTP Security Headers|           
+                                       anees_missing_headers|
 
 ## Videos
 
