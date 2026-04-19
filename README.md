@@ -1,25 +1,23 @@
 # COMP2152 — Term Project: CTF Bug Bounty
 
 ## Team Name
-<!-- Replace with your team name -->
-Team _______
+TeamTitan  Group 21
 
 ## Team Members
 
-| Member | Vulnerability Found   | Branch Name |
-|--------|-----------------------|-------------|
-| Navjot | Telnet Service Exposed |navjot_telnet_cleartext |
-| Saurab | Anonymous FTP Login Allowed|saurab_anonymous_ftp |
-| Anees| Missing HTTP Security Headers|           
-                                       anees_missing_headers|
+| Member | Vulnerability Found | Branch Name |
+|--------|---------------------|-------------|
+| Navjot | Redis Server Exposed (No Authentication) | navjot_redis_exposed |
+| Saurab | Anonymous FTP Login Allowed | saurab_anonymous_ftp |
+| Anees | Missing HTTP Security Headers | anees_missing_headers |
 
 ## Videos
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Member 1: https://youtube.com/watch?v=_______
-- Member 2: https://youtube.com/watch?v=_______
-- Member 3: https://youtube.com/watch?v=_______
+- Navjot: https://youtu.be/xTxIltrDXgQ
+- Saurab: https://youtube.com/watch?v=_______
+- Anees: https://youtube.com/watch?v=_______
 
 ## Target
 
