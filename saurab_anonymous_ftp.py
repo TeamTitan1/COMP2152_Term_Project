@@ -1,5 +1,5 @@
 # ============================================================
-# Author:      Saurab
+# Author:      Saurab Bhattarai
 # Vulnerability: Anonymous FTP Login Allowed
 # Target:      ftp.0x10.cloud (port 2121)
 # Course:      COMP2152 Term Project
