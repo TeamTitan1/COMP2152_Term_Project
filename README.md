@@ -9,7 +9,7 @@ TeamTitan  Group 21
 |--------|---------------------|-------------|
 | Navjot | Redis Server Exposed (No Authentication) | navjot_redis_exposed |
 | Saurab | Anonymous FTP Login Allowed | saurab_anonymous_ftp |
-| Anees | Missing HTTP Security Headers | anees_missing_headers |
+| Anees | SMTP open relay | anees_smtp_open_relay |
 
 ## Videos
 
