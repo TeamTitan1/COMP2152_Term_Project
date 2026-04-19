@@ -16,7 +16,7 @@ TeamTitan  Group 21
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
 - Navjot: https://youtu.be/xTxIltrDXgQ
-- Saurab: https://youtube.com/watch?v=_______
+- Saurab: https://youtu.be/nkUR30UqCmg
 - Anees: https://youtube.com/watch?v=_______
 
 ## Target
